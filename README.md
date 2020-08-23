@@ -5,7 +5,7 @@
 ### 🧰 System Requirements
 
 * Android Studio
-* Kotlin
+* 100% Kotlin
 
 ### 🛠️ Installation 
 
